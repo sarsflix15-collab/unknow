@@ -1,0 +1,14 @@
+{
+  "name": "SALA COM FUTURO",
+  "short_name": "Sala com Futuro",
+  "description": "Seu painel acadêmico com clareza e ritmo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7faff",
+  "theme_color": "#2f80ff",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/logo-sala-com-futuro.png", "sizes": "1672x941", "type": "image/png", "purpose": "any" }
+  ]
+}
